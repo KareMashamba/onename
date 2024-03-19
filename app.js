@@ -5,7 +5,7 @@ const port = 3000; // Change this to your desired port
 
 // Create a MySQL connection
 const dbConfig = {
-    host: 'localhost', // Change this to your database host
+    host: 'https://karemashamba.github.io/onename/', // Change this to your database host
     user: 'kare',      // Change this to your database username
     password: 'jesuschrist06',      // Change this to your database password
     database: 'mwiki'  // Change this to your database name
